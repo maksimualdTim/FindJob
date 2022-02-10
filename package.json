@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "amocrm-js": "^2.0.9",
+    "node-fetch": "^3.2.0",
+    "open": "^8.4.0"
+  }
+}
